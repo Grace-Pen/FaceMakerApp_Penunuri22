@@ -10,10 +10,9 @@
     <string name="skin">Skin</string>
     //spinner options
     <string-array name="spinnerOptions" >
-    <item>Braid</item>
-    <item>Ponytail</item>
-    <item>Straight</item>
-    <item>Curly</item>
+        <item>Bald</item>
+        <item>Straight</item>
+        <item>Short</item>
     </string-array>
 
 
